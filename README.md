@@ -1,5 +1,7 @@
 # ktlib-convert-to-itinerary
 
+[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Kpatio&repo=ktlib-convert-to-itinerary)
+
 Contains unmanaged base classes and metadata for lead to itinerary conversion.
 
 ## How it works
