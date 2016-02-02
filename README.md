@@ -1,7 +1,8 @@
 # ktlib-convert-to-itinerary
 
-[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Kpatio&repo=ktlib-convert-to-itinerary)
+[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Kaptio&repo=ktlib-convert-to-itinerary)
 
+Prerequisite: Kaptio Travel v1.140 or higher.
 Contains unmanaged base classes and metadata for lead to itinerary conversion.
 
 ## How it works
